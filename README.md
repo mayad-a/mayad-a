@@ -45,4 +45,4 @@ I love building **AI applications** to solve real-world problems, especially in 
 ---
 
 ## 📈 GitHub Stats
-![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayadamahmoud&show_icons=true&theme=radical)
+![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayad-a&show_icons=true&theme=radical)
