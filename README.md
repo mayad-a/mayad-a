@@ -1,7 +1,5 @@
 # 👋 Welcome to Mayada Mahmoud's Profile!
-![Learning](https://img.shields.io/badge/Learning-Data%20Science-blue)
-![Learning](https://img.shields.io/badge/Learning-Data%20Science-blue) ![Learning](https://img.shields.io/badge/Learning-AI-red) ![Learning](https://img.shields.io/badge/Learning-Python-yellow)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7AB0A&center=true&width=500&lines=Learning+Data+Science;Learning+AI;Always+Improving)
 Hi there! I'm **Mayada Mahmoud**, a Computer Science graduate and AI enthusiast.  
 I love building **AI applications** to solve real-world problems, especially in **image processing** and **color blindness assistance**.
 
