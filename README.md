@@ -46,4 +46,5 @@ Hi there! I'm **Mayada Mahmoud**, a Computer Science graduate and AI enthusiast.
 ---
 
 ## 📈 GitHub Stats
-![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayad-a&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-5-blue)
