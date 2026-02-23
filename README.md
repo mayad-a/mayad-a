@@ -1,6 +1,7 @@
 # 👋 Welcome to Mayada Mahmoud's Profile!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7AB0A&center=true&width=600&lines=Data+Science+++|+++AI+++|+++ML;Always+Learning+new+Things)
+
 Hi there! I'm **Mayada Mahmoud**, a Computer Science graduate and AI enthusiast.  
 I love building **AI applications** to solve real-world problems, especially in **image processing** and **color blindness assistance**.
 
