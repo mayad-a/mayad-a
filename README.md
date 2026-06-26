@@ -110,11 +110,9 @@ Hi there! I'm **Mayada Mahmoud Shaban**, an AI and Data Science Engineer passion
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayadamahmoud1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Mayada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayadamahmoud1&theme=radical)
 
 ---
 
