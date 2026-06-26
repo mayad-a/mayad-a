@@ -1,176 +1,63 @@
-```md
-# Hi there 👋 I'm Mayada Mahmoud
+# 👋 Welcome to Mayada Mahmoud's Profile!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+Agentic+AI+Developer;Computer+Vision+Engineer;Building+Real-World+AI+Systems;Always+Learning+Something+New+🚀" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7AB0A&center=true&width=600&lines=AI+%26+Data+Science+Engineer;Agentic+AI+Developer;Deep+Learning+Enthusiast)
 
----
-
-## 🚀 About Me
-
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems.
-
-My interests span across:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 💬 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI & Multi-Agent Systems
-- 👁️ Computer Vision
-- 🏥 Medical AI
-- ⚡ AI Automation
-
-I enjoy designing complete AI products—from data collection and model training to deploying scalable AI applications.
+Hi there! I'm **Mayada Mahmoud Shaban**, an AI and Data Science Engineer specializing in Agentic AI, Generative Models, and Computer Vision. I am passionate about building autonomous systems and creating AI solutions that solve real-world problems.
 
 ---
 
-## 🎓 Education
+## 💡 About Me
 
-**B.Sc. Computer Science Engineering**
-
-Menoufia University
-
-GPA: **Very Good**
-
-Graduation: **2026**
+- 🎓 **B.Sc. in Computer Science and Engineering**, Menoufia University (Graduated Jan 2026 | GPA: 3.41).
+- 🤖 Specialized in **Agentic AI**, developing autonomous agents and multi-agent systems using **LangChain, LangGraph, and n8n**.
+- 🚀 Currently participating in the **Agentic AI Developer Program** by Digital Egypt Youth (DEY) and NTI.
+- 🏆 **3rd Place Winner** at the Orange AI Hackathon for Brain Tumor Segmentation.
+- 💬 Ask me about: **Agentic Workflows, RAG Architecture, Generative AI (GANs), and Medical Image Segmentation.**
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Languages
+**AI & Machine Learning:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-F05032?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- Python
-- C++
-- SQL
-- C#
-
-### AI & Machine Learning
-
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- OpenCV
-- YOLO
-- Grounding DINO
-- Segment Anything (SAM)
-- Pix2Pix GAN
-- CNN
-- U-Net
-
-### LLM & Agentic AI
-
-- OpenAI API
-- Claude
-- LangChain
-- RAG Pipelines
-- AI Agents
-- Prompt Engineering
-- MCP
-- Vector Databases
-
-### Backend & Deployment
-
-- FastAPI
-- Docker
-- Git & GitHub
-- Google Colab
-- Jupyter Notebook
-
-### Automation
-
-- n8n
+**Backend & Deployment:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 Featured Projects
 
-## 🎨 AI Color Blindness Assistant
+### 1️⃣ RAG-Based Support Chatbot
+- Developed and containerized an intelligent support chatbot for networking hardware.
+- **Tech:** FastAPI, Docker, FAISS, LLMs.
 
-An intelligent computer vision system that:
+### 2️⃣ Color Unblind (Graduation Project)
+- Built Generative Adversarial Network (GAN) models for real-time color blindness correction.
+- Handled video and image processing to simulate and correct vision dynamically using Pix2Pix.
+- 📂 [View Models](./Models)
 
-- Detects objects using YOLO
-- Automatically generates annotations using Grounding DINO + SAM
-- Corrects colors for color-blind users
-- Performs real-time image enhancement
-
-**Tech**
-
-`YOLO` • `Grounding DINO` • `SAM` • `Pix2Pix` • `OpenCV`
-
----
-
-## 🧠 NeuroSeg AI
-
-Medical image segmentation system for MRI brain tumors.
-
-Features:
-
-- CNN/U-Net segmentation
-- Medical image preprocessing
-- Tumor visualization
+### 3️⃣ NeuroSeg AI - Brain Tumor Segmentation
+- **Orange AI Hackathon - 3rd Place Winning Project.**
+- Implemented medical image segmentation utilizing ResNet34-UNet and residual architectures for highly accurate MRI tumor detection.
+- 📂 [View NeuroSeg](./NeuroSeg)
 
 ---
 
-## 🤖 Agentic AI Systems
+## 🔗 Connect with Me
 
-Currently building AI agents capable of:
-
-- Multi-agent collaboration
-- LLM orchestration
-- Workflow automation
-- Business process optimization
-
-Technologies:
-
-`Claude` • `OpenAI` • `RAG` • `n8n`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayadamahmoud1)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mة0425689@gmail.com)  
 
 ---
 
-# 🌱 Currently Learning
+## 📈 GitHub Stats
 
-- Advanced Agentic AI
-- Multi-Agent Architectures
-- AI System Design
-- AI Infrastructure
-- MLOps
-- Production LLM Applications
-
----
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayadamahmoud1)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ "Building AI that makes a real impact."
-
-</p>
-```
+![Public Repos](https://img.shields.io/badge/Public%20Repos-5-blue)
+<!-- You can later replace this static badge with dynamic GitHub stats like github-readme-stats if you prefer! -->
