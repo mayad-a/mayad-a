@@ -102,17 +102,17 @@ Hi there! I'm **Mayada Mahmoud Shaban**, an AI and Data Science Engineer passion
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayadamahmoud1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-mayada-mahmoud)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayada.m.shaban@gmail.com)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayadamahmoud1&show_icons=true&theme=radical)
+![Mayada's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayad-a&show_icons=true&theme=radical)
 
-![Mayada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayadamahmoud1&theme=radical)
+![Mayada's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayad-a&theme=radical)
 
 ---
 
